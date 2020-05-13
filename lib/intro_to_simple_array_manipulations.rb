@@ -19,4 +19,4 @@ def using_delete(instructors, delete)
 end
 
 def using_delete_at(famous robots, integer)
-  
+  deleted_robots = 
